@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: 0ac675e38029363459026acbbfe4b1f1
+timeCreated: 1526398130
+licenseType: Free
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - para: {fileID: 1981478152747206, guid: 9047b08fee3c72148b7872620453da2f, type: 2}
+  - mayin: {fileID: 1682650046464794, guid: 7c445d401d4c8a84499d768010221ac2, type: 2}
+  - minigun: {fileID: 1783952320513784, guid: d4029acd8e92b7d44a0ace668c05e476, type: 2}
+  - pistol: {fileID: 1382696185976714, guid: 1776a4eb3a6b0764597e6d7540704412, type: 2}
+  - tank: {fileID: 1217193659205550, guid: 94d5ac3fbd9206d40aa48df5b9f85ee5, type: 2}
+  - taramali: {fileID: 1034402339905070, guid: 787b1a4c212271248b037e988d2d4c85, type: 2}
+  - bozuka: {fileID: 1189280465848288, guid: 3f4e322e6a5754143a5aa035782e3aa6, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

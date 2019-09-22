@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 8af24c1b22de19b4eafd88fef8e29678
+timeCreated: 1526343430
+licenseType: Free
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - mermi: {fileID: 1398510540522954, guid: 2f5944b45a311a741af1707cdace0f7d, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
